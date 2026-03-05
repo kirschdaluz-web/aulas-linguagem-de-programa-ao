@@ -1,1 +1,35 @@
 
+public class JavaAula01 {
+
+    public static void main(String[] args) {
+        System.out.println("Daniel");
+
+        int x = 10;
+
+        int y = 20;
+
+        double a = 15.5;
+
+        double b = 22.5;
+
+        System.out.println(x + y);
+
+        System.out.println(x + y);
+
+        System.out.println(x / y);
+
+        System.out.println(x - y);
+
+        System.out.println(a * x);
+
+        System.out.println(b / y);
+
+        if(x>y){
+            System.out.println("x é maior que y");    
+        }
+        else{System.out.println("x é menor que y");}
+
+
+    }
+
+}
